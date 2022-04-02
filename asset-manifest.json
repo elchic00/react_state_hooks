@@ -1,17 +1,15 @@
 {
   "files": {
-    "main.css": "/react_state_hooks/static/css/main.073c9b0a.css",
-    "main.js": "/react_state_hooks/static/js/main.7fb3de4f.js",
-    "static/js/787.b972bb5b.chunk.js": "/react_state_hooks/static/js/787.b972bb5b.chunk.js",
-    "static/media/milky_way.jpg": "/react_state_hooks/static/media/milky_way.f4867f32d6120b4193b4.jpg",
-    "static/media/logo.svg": "/react_state_hooks/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/react_state_hooks/index.html",
-    "main.073c9b0a.css.map": "/react_state_hooks/static/css/main.073c9b0a.css.map",
-    "main.7fb3de4f.js.map": "/react_state_hooks/static/js/main.7fb3de4f.js.map",
-    "787.b972bb5b.chunk.js.map": "/react_state_hooks/static/js/787.b972bb5b.chunk.js.map"
+    "main.css": "/bank_profile/static/css/main.073c9b0a.css",
+    "main.js": "/bank_profile/static/js/main.83265e9b.js",
+    "static/js/787.f2a0fa2f.chunk.js": "/bank_profile/static/js/787.f2a0fa2f.chunk.js",
+    "index.html": "/bank_profile/index.html",
+    "main.073c9b0a.css.map": "/bank_profile/static/css/main.073c9b0a.css.map",
+    "main.83265e9b.js.map": "/bank_profile/static/js/main.83265e9b.js.map",
+    "787.f2a0fa2f.chunk.js.map": "/bank_profile/static/js/787.f2a0fa2f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.7fb3de4f.js"
+    "static/js/main.83265e9b.js"
   ]
 }
